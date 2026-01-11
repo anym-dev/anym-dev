@@ -10,24 +10,7 @@ i'm driven by the power of atmosphere, creating it through lines of code and mel
 
 ---
 
-### using
-
-<div align="left">
-  ![Unity](https://img.shields.io/badge/unity-as%20main%20engine-orange?logo=unity)
-  ![C#](https://img.shields.io/badge/csharp-practicing-blue?logo=sharp)
-</div>
-
----
-
-### stats & presence
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anym-dev&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-### connection
+### contact me
 
 i am always open to collaborating on indie games or experimental creative projects. feel free to reach out if you want to build something meaningful together.
 
