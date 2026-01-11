@@ -13,8 +13,8 @@ i'm driven by the power of atmosphere, creating it through lines of code and mel
 ### using
 
 <div align="left">
-  ![Unity]([img.shields.io](https://img.shields.io/badge/unity-as%20main%20engine-orange?logo=unity))
-  ![C#]([img.shields.io](https://img.shields.io/badge/csharp-practicing-blue?logo=sharp))
+  ![Unity](https://img.shields.io/badge/unity-as%20main%20engine-orange?logo=unity)
+  ![C#](https://img.shields.io/badge/csharp-practicing-blue?logo=sharp)
 </div>
 
 ---
