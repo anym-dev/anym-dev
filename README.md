@@ -4,8 +4,10 @@
 
 ### about
 
-i am ilya dunets, a game developer and sound designer based in belarus.
+i am a game developer and sound designer based in belarus.
+
 at 14, i focus on rapid creation by blending traditional coding with modern ai tools. my journey so far includes showcasing a solo game project at a national tech event and producing music that has reached over 3.2 million+ streams on spotify.
+
 i'm driven by the power of atmosphere, creating it through lines of code and melodies.
 
 ---
